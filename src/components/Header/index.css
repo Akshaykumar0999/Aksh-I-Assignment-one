@@ -1,0 +1,45 @@
+.nav-container {
+    background-color: #4d4dff;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    height: 60px;
+}
+.Header-container-card {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+}
+.Header-Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.icon-menu {
+    height: 30px;
+    width: 30px;
+    color: #ffffff;
+}
+.name-select {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-select {
+    color: #ffffff;
+}
+.names {
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+.menu-button {
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
